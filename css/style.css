@@ -45,4 +45,19 @@
   background-color: white;
   color: black;
 }
+.testimonial-div{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
+}
+.sponsors{
+  display: flex;
+  width :90%;
+  justify-content: space-around;
+}
+
+/* *{
+  border: 1px solid black;
+} */

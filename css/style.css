@@ -27,36 +27,6 @@
   border-radius: 50%;
 }
 
-.btn-primary{
-   background-color: white;
-   color: black;
-}
-.btn-outline-secondary{
-  color: white;
-  border-color: white;
-}
-
-.btn-primary:hover{
-  background-color: rgb(180, 180, 180);
-  color: black;
-}
-
-.btn-outline-secondary:hover{
-  background-color: white;
-  color: black;
-}
-.testimonial-div{
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-}
-.sponsors{
-  display: flex;
-  width :90%;
-  justify-content: space-around;
-}
 
 /* *{
   border: 1px solid black;
